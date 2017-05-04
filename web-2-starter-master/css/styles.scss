@@ -1,4 +1,19 @@
+// Main Street- Our One Stop Shopping Destination!
+
+@import "normalize";
+@import "google-homepage";
+
 /* Styling */
 body {
-    background: red;
+    background: rgba(79, 149, 149, 0.6);
+    
+}
+
+//
+#stage {
+    position: relative;
+}
+//child
+#stage svg {
+    position: absolute;
 }

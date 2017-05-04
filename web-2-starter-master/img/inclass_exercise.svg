@@ -1,46 +1,10 @@
-<!-- Content -->
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- gotten from view from codepen -->
-    
-     <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
-    <link rel="manifest" href="img/favicons/manifest.json">
-    <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="theme-color" content="#ffffff">
-    
-    <title>Web 2 Starter</title>
- 
-    <link rel="stylesheet" href="css/styles.css"><!-- link (TAB) does all that mumbo for you< -->
-</head>
-
-<body>
-    <h1> Bryan James</h1>
-    <body>
-	
-	<!-- Doodle Stage -->
-    <div id="stage">
-        <!-- pretty picture -->
-        
-<!--      svg as a file-->
-
-<!--        <img src="img/inclass_exercise.svg" alt="">-->
-
-<!--      svg as code-->
- <?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 474 181" style="enable-background:new 0 0 474 181;" xml:space="preserve">
-<!--	 MAGIC PICTO EDITO-->
 <style type="text/css">
-	.st0{fill: red;
-    stroke: white;}
-	.st1{fill: red ;}
+	.st0{fill:none;}
+	.st1{fill:#C6DD7F;}
 	.st2{fill:#E9DDB7;}
 	.st3{fill:#A6D0E4;}
 	.st4{fill:url(#Alyssa);}
@@ -171,22 +135,3 @@
 	<path d="M468,6v169H6V6H468 M474,0H0v181h474V0L474,0z"/>
 </g>
 </svg>
-
-   
-    </div>
-    
-    <input type="text" />
-    <div>
-        <button>Google Search</button>
-        <button>I'm Feeling Lucky</button>
-    </div>
-    
-    <!-- Javascripts go before the end of the </body> tag --> 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  
-    <script src="js/plugin.js"></script> 
-    <script src="js/scripts.js"></script>
-    <script src="js/Lettering.js/"></script>
-    <!-- theres jquery, then the two javascript files linked in-->
-</body>
-</html>
-<!-- html:5 (TAB)/ makes all that ^ -->
