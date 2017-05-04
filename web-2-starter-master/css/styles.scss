@@ -9,11 +9,38 @@ body {
     
 }
 
-//
+//this is our stage, the page is curtains
 #stage {
     position: relative;
+    overflow: hidden;
+    //over sets the curtains, stage div is stage
 }
 //child
 #stage svg {
     position: absolute;
+    bottom: 20px;
+    right: 500px;
+    
+}
+// cchil
+#stage h1 {
+    position: absolute;
+    bottom: 50%;
+    left: 20%;
+}
+
+
+//anime
+
+//first frame
+#stage h1, 
+#stage svg {
+    opacity: 0;
+    transition: opacity 2.5s;
+}
+//last frame
+#stage:hover h1,
+#stage:hover svg {
+    opacity: 1;
+    transition: opacity 2.5s; 
 }
