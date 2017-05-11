@@ -467,10 +467,33 @@ body {
   width: 200px;
   height: 300px; }
 
-/* line 34, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 29, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
+#stage svg.LeftHand {
+  position: absolute;
+  bottom: -80pt;
+  right: 280pt;
+  width: 200px;
+  height: 300px; }
+
+/* line 36, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
+#stage svg.head {
+  position: absolute;
+  bottom: -80pt;
+  left: 190px;
+  width: 400px;
+  height: 400px; }
+
+/* line 46, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage:hover svg.Doubles {
   animation-duration: 10s;
-  transform: rotate(-36deg) translateX(120px) translateY(-50px) rotate(40deg);
+  transform: rotate(-36deg) translateX(120px) translateY(-50px) rotate(50deg);
+  transition: transform 1s; }
+
+/* line 51, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
+#stage:hover svg.LeftHand {
+  animation-delay: 2s;
+  animation-duration: 10s;
+  transform: rotate(-36deg) translateX(120px) translateY(-50px) rotate(50deg);
   transition: transform 1s; }
 
 /*# sourceMappingURL=styles.css.map */

@@ -26,17 +26,33 @@ body {
     
 }
 // cchil
-
-
+#stage svg.LeftHand {
+    position: absolute;
+     bottom: -80pt;
+    right: 280pt;
+    width: 200px;
+    height: 300px;
+}
+#stage svg.head {
+    position:absolute;
+    bottom: -80pt;
+    left: 190px;
+    width:400px ;
+    height:400px;
+}
 //anime
 
 //first frame
 #stage:hover svg.Doubles {
     animation-duration: 10s; 
-    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(40deg);
+    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
     transition: transform 1s ;
 }
-    
+#stage:hover svg.LeftHand
+{animation-delay: 2s ;
+animation-duration: 10s; 
+    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
+    transition: transform 1s }
 
 //last frame
 
