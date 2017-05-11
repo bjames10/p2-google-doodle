@@ -6,7 +6,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
-/* line 12, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 12, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 html {
   line-height: 1.15;
   /* 1 */
@@ -20,7 +20,7 @@ html {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 25, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 25, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 article,
 aside,
 footer,
@@ -33,7 +33,7 @@ section {
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
  */
-/* line 39, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 39, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
@@ -44,7 +44,7 @@ h1 {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in IE.
  */
-/* line 52, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 52, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 figcaption,
 figure,
 main {
@@ -54,7 +54,7 @@ main {
 /**
  * Add the correct margin in IE 8.
  */
-/* line 62, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 62, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 figure {
   margin: 1em 40px; }
 
@@ -62,7 +62,7 @@ figure {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 71, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 71, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -75,7 +75,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 82, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 82, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -88,7 +88,7 @@ pre {
  * 1. Remove the gray background on active links in IE 10.
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
-/* line 95, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 95, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 a {
   background-color: transparent;
   /* 1 */
@@ -99,7 +99,7 @@ a {
  * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 105, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 105, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -111,7 +111,7 @@ abbr[title] {
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
-/* line 115, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 115, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 b,
 strong {
   font-weight: inherit; }
@@ -119,7 +119,7 @@ strong {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 124, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 124, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 b,
 strong {
   font-weight: bolder; }
@@ -128,7 +128,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 134, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 134, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 code,
 kbd,
 samp {
@@ -140,14 +140,14 @@ samp {
 /**
  * Add the correct font style in Android 4.3-.
  */
-/* line 145, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 145, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 dfn {
   font-style: italic; }
 
 /**
  * Add the correct background and color in IE 9-.
  */
-/* line 153, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 153, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 mark {
   background-color: #ff0;
   color: #000; }
@@ -155,7 +155,7 @@ mark {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 162, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 162, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 small {
   font-size: 80%; }
 
@@ -163,7 +163,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 171, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 171, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 sub,
 sup {
   font-size: 75%;
@@ -171,11 +171,11 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 179, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 179, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 sub {
   bottom: -0.25em; }
 
-/* line 183, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 183, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 sup {
   top: -0.5em; }
 
@@ -184,7 +184,7 @@ sup {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 194, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 194, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 audio,
 video {
   display: inline-block; }
@@ -192,7 +192,7 @@ video {
 /**
  * Add the correct display in iOS 4-7.
  */
-/* line 203, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 203, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 audio:not([controls]) {
   display: none;
   height: 0; }
@@ -200,14 +200,14 @@ audio:not([controls]) {
 /**
  * Remove the border on images inside links in IE 10-.
  */
-/* line 212, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 212, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 img {
   border-style: none; }
 
 /**
  * Hide the overflow in IE.
  */
-/* line 220, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 220, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 svg:not(:root) {
   overflow: hidden; }
 
@@ -216,7 +216,7 @@ svg:not(:root) {
 /**
  * Remove the margin in Firefox and Safari.
  */
-/* line 231, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 231, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button,
 input,
 optgroup,
@@ -228,7 +228,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 244, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 244, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button,
 input {
   /* 1 */
@@ -238,7 +238,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 254, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 254, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button,
 select {
   /* 1 */
@@ -249,7 +249,7 @@ select {
  *    controls in Android 4.
  * 2. Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 265, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 265, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button,
 html [type="button"],
 [type="reset"],
@@ -260,7 +260,7 @@ html [type="button"],
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 276, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 276, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -271,7 +271,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 288, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 288, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -284,7 +284,7 @@ button:-moz-focusring,
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 302, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 302, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -303,7 +303,7 @@ legend {
  * 1. Add the correct display in IE 9-.
  * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 316, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 316, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 progress {
   display: inline-block;
   /* 1 */
@@ -313,7 +313,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE.
  */
-/* line 325, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 325, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 textarea {
   overflow: auto; }
 
@@ -321,7 +321,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10-.
  * 2. Remove the padding in IE 10-.
  */
-/* line 334, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 334, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -332,7 +332,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 344, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 344, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto; }
@@ -341,7 +341,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 354, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 354, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -351,7 +351,7 @@ textarea {
 /**
  * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
  */
-/* line 363, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 363, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
@@ -360,7 +360,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 373, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 373, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -373,7 +373,7 @@ textarea {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in Edge, IE, and Firefox.
  */
-/* line 386, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 386, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 details,
 menu {
   display: block; }
@@ -381,7 +381,7 @@ menu {
 /*
  * Add the correct display in all browsers.
  */
-/* line 395, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 395, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 summary {
   display: list-item; }
 
@@ -390,14 +390,14 @@ summary {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 406, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 406, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 canvas {
   display: inline-block; }
 
 /**
  * Add the correct display in IE.
  */
-/* line 414, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 414, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 template {
   display: none; }
 
@@ -406,19 +406,19 @@ template {
 /**
  * Add the correct display in IE 10-.
  */
-/* line 425, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/normalize.css */
+/* line 425, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/normalize.css */
 [hidden] {
   display: none; }
 
 /* Stage */
-/* line 3, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
+/* line 3, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
 #stage {
   background: gray;
   height: 300px;
   width: 600px; }
 
 /* DO NOT EDIT BELOW THIS LINE */
-/* line 15, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
+/* line 15, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
 input {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACrElEQVR42u2Xz2sTQRSAX8VSb1K8iNqKooJH2Ux6Ksn+iPQqxZMIehJB0do/IMhmQWsvHr2KSEGk0tSLIoWIYNUKij20F2/N7iaUZnYT0kYzzhMKs0HDJiTdLcwHDwKZSd63781LBiQSSW9JZdkhzfKm1Rz9mjZp/W9YdEU3vXv4HsQZ40FtNG36q5rls//Ej4tmbSS2T15Mvp3ExOPmEMQNbBtMMEyoljcFcQN7PqyAlqNfIG7gYQ0tYNIaxA1MrJPY3wImbUqBKAXSFv0tBSIVMOkvKRDtGKWN/T6FdqRAxFNoWwpEPIXqUqBT6ALU/UVgu8GW4GD3f6f9TRDYNJTDrk7YbtiqUumHwIYoUJuHERDAS0r4CvgFECgbY+cFAR7KT+g1POmCKFDNw6WggHc3fBtVb4CAoyauBgXIG+g1Xh5mRAGah6cggBd11fK/h7lOprIs0H6uRl6KAo5O7kOv4QmPiwJ4Jqqv4FiwCtXjvD2+tRmfK6kZ/ygI2HritK0rDVGgrClJ6DWMwYC/AGuCBMYcIC2V0CzvjmbRz3j3xUjn6CfeYreUJ2wQkGD75INPX1mFfsEFrrcIYCvdhC4paWQakxajpJMr0C9YFg54i7AsClRmh9/xnr0NHcInzZStk2aLwAcGMAD9pPIazvFKVDD5rdnhJeHLX5RTyRPQHpz5o66emMc9wdlPtvA8wF7Aq2BUHh1525qEo5JtR1WeOXpickO9cJIpyuD6xJmhYiZ5ytWSl3mlnuOaf+2zDaLDXmJrSgZ/MYVEugo+gSh+FkSBa4yd5Ul87DZ5XpFl/AyIEjzYjkau8WqshU2cr13HPbgX4gJOD97n465GZlyVvC9mSKloKI2iTnbwNT+gBX54H+IaXAtxJzE3ycSAFqSAFJACUkAikXD+AHj5/wx2o5osAAAAAElFTkSuQmCC) no-repeat center right;
   border: 1px solid #aaa;
@@ -429,13 +429,13 @@ input {
   line-height: 36px;
   width: 50%; }
 
-/* line 26, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
+/* line 26, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
 div {
   margin: 3em auto;
   text-align: center;
   width: 50%; }
 
-/* line 32, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
+/* line 32, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/google-homepage.css */
 button {
   display: inline-block;
   background-color: #f2f2f2;
@@ -450,34 +450,36 @@ button {
   text-align: center; }
 
 /* Styling */
-/* line 7, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 7, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 body {
   background: rgba(79, 149, 149, 0.6); }
 
-/* line 13, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 13, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage {
   position: relative;
   overflow: hidden; }
 
-/* line 19, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 19, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage svg {
   position: absolute;
   bottom: 20px;
-  right: 500px; }
+  right: 0px;
+  width: 300px;
+  height: 300px; }
 
-/* line 26, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 28, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage h1 {
   position: absolute;
   bottom: 50%;
   left: 20%; }
 
-/* line 36, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 38, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage h1,
 #stage svg {
   opacity: 0;
   transition: opacity 2.5s; }
 
-/* line 42, /Volumes/bjames10/p2-google-doodle/web-2-starter-master/css/styles.scss */
+/* line 44, C:/Users/bryan/OneDrive/Documents/GitHub/p2-google-doodle/web-2-starter-master/css/styles.scss */
 #stage:hover h1,
 #stage:hover svg {
   opacity: 1;

@@ -19,7 +19,9 @@ body {
 #stage svg {
     position: absolute;
     bottom: 20px;
-    right: 500px;
+    right: 0px;
+    width: 300px;
+    height: 300px;
     
 }
 // cchil
@@ -39,8 +41,8 @@ body {
     transition: opacity 2.5s;
 }
 //last frame
-#stage:hover h1,
-#stage:hover svg {
-    opacity: 1;
-    transition: opacity 2.5s; 
+//#stage:hover h1,
+//#stage:hover svg {
+    //opacity: 1;
+    //transition: opacity 2.5s; 
 }
