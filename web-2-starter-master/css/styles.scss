@@ -16,33 +16,28 @@ body {
     //over sets the curtains, stage div is stage
 }
 //child
-#stage svg {
+//child
+#stage svg.Doubles {
     position: absolute;
-    bottom: 20px;
-    right: 0px;
-    width: 300px;
+    bottom: -76pt;
+    right: 150pt;
+    width: 200px;
     height: 300px;
     
 }
 // cchil
-#stage h1 {
-    position: absolute;
-    bottom: 50%;
-    left: 20%;
-}
 
 
 //anime
 
 //first frame
-//#stage h1, 
-//#stage svg {
-    //opacity: 0;
-    //transition: opacity 2.5s;
+#stage:hover svg.Doubles {
+    animation-duration: 10s; 
+    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(40deg);
+    transition: transform 1s ;
 }
+    
+
 //last frame
-//#stage:hover h1,
-//#stage:hover svg {
-    //opacity: 1;
-    //transition: opacity 2.5s; 
-}
+
+    
