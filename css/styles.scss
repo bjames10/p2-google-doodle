@@ -11,7 +11,7 @@ body {
 
 svg.head {
     fill: #0a0000;
-    outline-color: aliceblue;
+    outline-color: black;
 }
 //this is our stage, the page is curtains
 #stage {
@@ -48,17 +48,50 @@ svg.head {
 //anime
 
 //first frame
-#stage:hover svg.Doubles {
-    animation-duration: 10s; 
-    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
-    transition: transform 1s ;
+#stage svg.Doubles {
+  animation: moveanimation1 1s ;
+animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
-#stage:hover svg.LeftHand
-{animation-delay: 2s ;
-animation-duration: 10s; 
-    transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
-    transition: transform 1s }
+#stage svg.LeftHand
+{animation-duration: 9s;
+animation: moveanimation2 3s; 
+     animation-iteration-count: infinite;
+    // transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
+    //transition: transform 1s
+     }
 
 //last frame
 
-    
+@keyframes moveanimation1 {
+    0% {
+        bottom: -76pt;
+    right: 150pt;
+    width: 200px;
+    height: 300px
+    }
+    50% {transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
+    transition: transform 1s;
+        
+    }
+    100% {transform: translateX(0pt);
+    transition: transform 1s
+    }
+
+}
+
+@keyframes moveanimation2 {
+    0% {
+          bottom: -80pt;
+    right: 280pt;
+    width: 200px;
+    height: 300px
+    }
+    50% {transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
+    transition: transform 1s;
+        
+    }
+    100% {transform: translateX(0pt);
+    transition: transform 1s
+    }
+}

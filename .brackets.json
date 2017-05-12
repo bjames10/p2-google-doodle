@@ -1,1 +1,13 @@
-{ "path": { "css/styles.scss": { "sass.enabled": true, "sass.options": { "outputDir": "../css/", "sourceComments": false, "outputStyle": "compressed" } } } }
+{
+    "path": {
+        "css/styles.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "sourceComments": false,
+                "outputStyle": "compressed"
+            },
+            "linting.collapsed": false
+        }
+    }
+}
