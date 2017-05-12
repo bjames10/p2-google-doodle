@@ -5,12 +5,17 @@
 
 /* Styling */
 body {
-    background: rgba(79, 149, 149, 0.6);
+    background: rgba(255, 255, 255, 0.6);
     
 }
 
+svg.head {
+    fill: #0a0000;
+    outline-color: aliceblue;
+}
 //this is our stage, the page is curtains
 #stage {
+    background: white;
     position: relative;
     overflow: hidden;
     //over sets the curtains, stage div is stage
