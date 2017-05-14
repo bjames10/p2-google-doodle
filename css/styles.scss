@@ -9,10 +9,9 @@ body {
     
 }
 
-svg.head {
-    fill: #0a0000;
-    outline-color: black;
-}
+    
+
+
 //this is our stage, the page is curtains
 #stage {
     background: white;
@@ -21,42 +20,60 @@ svg.head {
     //over sets the curtains, stage div is stage
 }
 //child
+#stage svg.GGLE {
+    position: absolute;
+    bottom: -30pt;
+    right: 0pt;
+    width: 600px;
+    height: 300px}
 //child
 #stage svg.Doubles {
     position: absolute;
-    bottom: -76pt;
-    right: 150pt;
+    bottom: -40pt;
+    right: 180pt;
     width: 200px;
     height: 300px;
     
 }
+
 // cchil
 #stage svg.LeftHand {
     position: absolute;
-     bottom: -80pt;
-    right: 280pt;
+     bottom: -50pt;
+    right: 300pt;
     width: 200px;
     height: 300px;
 }
+
+#stage svg.mouthOPEN {
+      position: absolute;
+     bottom: -50pt;
+    right: 300pt;
+    width: 200px;
+    height: 300px;
+    
+}
 #stage svg.head {
     position:absolute;
-    bottom: -80pt;
-    left: 190px;
+    bottom: -48pt;
+    left: 140px;
     width:400px ;
     height:400px;
 }
+
 //anime
 
 //first frame
 #stage svg.Doubles {
-  animation: moveanimation1 1s ;
-animation-duration: 3s;
+  animation: moveanimation1 5s ;
     animation-iteration-count: infinite;
+
 }
 #stage svg.LeftHand
-{animation-duration: 9s;
-animation: moveanimation2 3s; 
+{
+animation: moveanimation2 5s; 
      animation-iteration-count: infinite;
+  
     // transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
     //transition: transform 1s
      }
@@ -65,25 +82,25 @@ animation: moveanimation2 3s;
 
 @keyframes moveanimation1 {
     0% {
-        bottom: -76pt;
-    right: 150pt;
+        bottom: -40pt;
+    right: 180pt;
     width: 200px;
     height: 300px
     }
     50% {transform: rotate(-36deg)translateX(120px) translateY(-50px) rotate(50deg);
-    transition: transform 1s;
+    transition: transform 5s;
         
     }
     100% {transform: translateX(0pt);
-    transition: transform 1s
+    transition: transform 5s;
     }
 
 }
 
 @keyframes moveanimation2 {
     0% {
-          bottom: -80pt;
-    right: 280pt;
+          bottom: -50pt;
+    right: 300pt;
     width: 200px;
     height: 300px
     }
@@ -92,6 +109,7 @@ animation: moveanimation2 3s;
         
     }
     100% {transform: translateX(0pt);
-    transition: transform 1s
+    transition: transform 1s;
     }
 }
+@keyframes moveanimation3
